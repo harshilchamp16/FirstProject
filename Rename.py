@@ -2,7 +2,7 @@ import os
 
 
 List = list()
-path = 'Facenet/VGG_Female'
+path = 'Facenet/VGG_male'
 files = os.listdir(path)
 
 for folder in files:
